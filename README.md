@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-	  <title>College Fest Registration Portal</title>
-  </head>
-  <body>
+
     <p>
       The College Fest project is a web application that allows users to manage student details for a debate event. The project uses Spring, MVC, and Hibernate ORM to perform       CRUD operations on a database table that stores student information.
 
@@ -13,5 +8,4 @@
 
       Overall, the College Fest project provides a user-friendly interface for managing student information, with robust security features to protect sensitive data.
     </p>
-  </body>
-</html>
+
